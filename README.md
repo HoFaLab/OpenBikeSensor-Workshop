@@ -1,4 +1,4 @@
-# obs_jupyter
+# Open Bike Sensor Workshop
 Jupyter Notebook for a CodeWeek-Workshop analyzing OpenBikeSensor Data
 
 Probiert den Code hier aus:
