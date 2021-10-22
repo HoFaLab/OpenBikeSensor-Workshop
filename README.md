@@ -1,7 +1,11 @@
-# Open Bike Sensor Workshop
-Jupyter Notebook for a CodeWeek-Workshop analyzing OpenBikeSensor Data
+# Open Bike Sensor Workshop [Code-Week]
 
-Probiert den Code hier aus:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HoFaLab/OpenBikeSensor-Workshop.git/main)
+## Interaktive Karte mit allen Messdaten, Fahrradwegen und anderen Verkehrsflächen in Wilhelmsburg
+https://hofalab.github.io/OpenBikeSensor-Workshop/
 
+## Jupyter Notebook um die Daten genauer auswerten zu können
+Klickt hier: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HoFaLab/OpenBikeSensor-Workshop.git/main)
+
+
+### Unterwegs mit dem Sensor
 ![OpenBikeSensor](img/obs.gif)
